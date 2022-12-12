@@ -1,1 +1,16 @@
 /* your code */
+.container {
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  padding: 5px;
+
+  background-color: black;
+}
+thead {
+  color: aliceblue;
+}
+tboby {
+  background-color: azure;
+  color: black;
+}
